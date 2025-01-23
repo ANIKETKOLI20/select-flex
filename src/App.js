@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import SingleSelect from "./components/SingleSelect";
-import MultiSelect from "./components/MultiSelect"; 
+import MultiSelect from "./components/MultiSelect";
 
 export default function App() {
   const [rows, setRows] = useState([
